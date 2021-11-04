@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordList</string>
+    <string name="text_view">Welcome to TOEFL Word List!</string>
+    <string name="button_text">Start</string>
+</resources>
